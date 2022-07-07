@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT, TYPESCRIPT, NODE.
 - 🤔 I’m looking for help with 👆
-- 💬 Ask me about: O que quiser. Aqui a pergunta é em inglês e a resposta em português.
+- 💬 Ask me about: @yurifurquim
 ## - 📫 How to reach me: Igual ao luva, INACANÇÁVEL.
 - ⚡ Fun fact: ;
 -->
